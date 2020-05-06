@@ -1,3 +1,8 @@
+/*
+Problem Name: Weird Algorithm
+Problem Link: https://cses.fi/problemset/task/1068
+Author: Sachin Srivastava (mrsac7)
+*/
 //----------HEADER----------
 #include<bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
