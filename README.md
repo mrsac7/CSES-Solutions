@@ -25,6 +25,7 @@ Accepted solutions of CSES problemset
 1. [1096 - Throwing Dice](1096%20-%20Throwing%20Dice.cpp)
 1. [1097 - Removal Game](1097%20-%20Removal%20Game.cpp)
 1. [1098 - Nim Game II](1098%20-%20Nim%20Game%20II.cpp)
+1. [1099 - Stair Game](1099%20-%20Stair%20Game.cpp)
 1. [1110 - Minimal Rotation](1110%20-%20Minimal%20Rotation.cpp)
 1. [1111 - Longest Palindrome](1111%20-%20Longest%20Palindrome.cpp)
 1. [1130 - Tree Matching](1130%20-%20Tree%20Matching.cpp)
