@@ -1,3 +1,8 @@
+/*
+Problem Name: Stair Game
+Problem Link: https://cses.fi/problemset/task/1099
+Author: Sachin Srivastava (mrsac7)
+*/
 #include<bits/stdc++.h>
 using namespace std;
 
