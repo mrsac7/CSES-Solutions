@@ -166,7 +166,7 @@ Accepted solutions of [CSES problemset](https://cses.fi/problemset)
 * [1110 - Minimal Rotation](src/1110%20-%20Minimal%20Rotation.cpp)
 * [1111 - Longest Palindrome](src/1111%20-%20Longest%20Palindrome.cpp)
 
-##Additional Problems
+## Additional Problems
 * [1087 - Shortest Subsequence](src/1087%20-%20Shortest%20Subsequence.cpp)
 * [1146 - Counting Bits](src/1146%20-%20Counting%20Bits.cpp)
 * [1670 - Swap Game](src/1670%20-%20Swap%20Game.cpp)
