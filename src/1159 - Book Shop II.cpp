@@ -25,7 +25,7 @@ signed main(){
         cin>>a[i];
     for (int i = 0; i < n; i++)
         cin>>c[i];
-    // converstion to 0-1 knapsack
+    // conversion to 0-1 knapsack
     for (int i = 0; i < n; i++) {
         cin>>b[i];
         int x = 1;
