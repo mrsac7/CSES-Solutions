@@ -5,18 +5,23 @@ Author: Sachin Srivastava (mrsac7)
 */
 #include<bits/stdc++.h>
 using namespace std;
-
+ 
 #define int long long
 #define endl '\n'
-
+ 
 vector<int> pre, in;
 int a[100005];
-void post(int l1, int h1, int l2, int h2) {
-    if (l1 > h1)
+int x = 0, n;
+void post(int l = 0, int h = n-1) {
+    if (l > h) {
+        x--;
         return;
-    int i = a[pre[l1]];
-    post(l1+1, l1+1+i-l2-1, l2, i);
-    post(l1+1+i-l2, h1, i+1, h2);
+    }
+    int i = a[pre[x]];
+    ++x;
+    post(l, i-1);
+    ++x;
+    post(i+1, h);
     cout<<in[i]<<' ';
 }
 signed main(){
@@ -26,7 +31,7 @@ signed main(){
     freopen("output.txt", "w", stdout);
     #endif
     
-    int n; cin>>n;
+    cin>>n;
     for (int i = 0; i < n; i++) {
         int x; cin>>x;
         pre.push_back(x);
@@ -36,5 +41,5 @@ signed main(){
         in.push_back(x);
         a[x] = i;
     }
-    post(0,n-1,0,n-1);
+    post();
 }
