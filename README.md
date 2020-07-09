@@ -1,6 +1,18 @@
 # CSES-Solutions
 Accepted solutions of [CSES problemset](https://cses.fi/problemset)
 
+## Table of Contents
+
+- [Introductory Problems](#Introductory-Problems)
+- [Sorting and Searching](#Sorting-and-Searching)
+- [Dynamic Programming](#Dynamic-Programming)
+- [Graph Algorithms](#Graph-Algorithms)
+- [Range Queries](#Range-Queries)
+- [Tree Algorithms](#Tree-Algorithms)
+- [Mathematics](#Mathematics)
+- [String Algorithms](#String-Algorithms)
+- [Additional Problems](#Additional-Problems)
+
 ## Introductory Problems
 * [1068 - Weird Algorithm](src/1068%20-%20Weird%20Algorithm.cpp)
 * [1083 - Missing Number](src/1083%20-%20Missing%20Number.cpp)
