@@ -1,5 +1,5 @@
 # CSES-Solutions
-Accepted solutions of [CSES problemset](https://cses.fi/problemset)
+> Accepted solutions of [CSES problemset](https://cses.fi/problemset)
 
 ## Table of Contents
 
@@ -13,6 +13,7 @@ Accepted solutions of [CSES problemset](https://cses.fi/problemset)
 - [String Algorithms](#String-Algorithms)
 - [Additional Problems](#Additional-Problems)
 
+---
 ## Introductory Problems
 * [1068 - Weird Algorithm](src/1068%20-%20Weird%20Algorithm.cpp)
 * [1083 - Missing Number](src/1083%20-%20Missing%20Number.cpp)
