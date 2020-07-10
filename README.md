@@ -202,13 +202,13 @@
 * [1188 - Bit Inversions](src/1188%20-%20Bit%20Inversions.cpp)
 * [1086 - Writing Numbers](src/1086%20-%20Writing%20Numbers.cpp)
 * 1113 - String Transform
-* 1147 - Maximum Building I
+* [1147 - Maximum Building I](src/1147%20-%20Maximum%20Building%20I.cpp)
 * 1162 - Sorting Methods
 * 1191 - Cyclic Array
 * 1189 - Food Division
 * 1654 - Bit Problem
 * 1698 - Swap Round Sorting
-* 1700 - Tree Isomorphism I
+* [1700 - Tree Isomorphism I](src/1700%20-%20Tree%20Isomorphism%20I.cpp)
 * 1703 - Critical Cities
 * 1706 - School Excursion
 * 1709 - Coin Grid
@@ -217,14 +217,14 @@
 * 1080 - Empty String
 * 1078 - Grid Paths
 * [1159 - Book Shop II](src/1159%20-%20Book%20Shop%20II.cpp)
-* 1677 - Network Breakdown
+* [1677 - Network Breakdown](src/1677%20-%20Network%20Breakdown.cpp)
 * 1203 - Visiting Cities
 * [1157 - Number Grid](src/1157%20-%20Number%20Grid.cpp)
 * 1148 - Maximum Building II
 * [1161 - Stick Divisions](src/1161%20-%20Stick%20Divisions.cpp)
 * 1665 - Coding Company
 * 1699 - Flight Route Requests
-* 1701 - Tree Isomorphism II
+* [1701 - Tree Isomorphism II](src/1701%20-%20Tree%20Isomorphism%20II.cpp)
 * 1705 - Forbidden Cities
 * 1741 - Area of Rectangles
 * 1752 - Creating Offices
