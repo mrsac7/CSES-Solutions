@@ -32,7 +32,7 @@ signed main(){
                 int area = a[s]*(st.empty() ? j : j-st.top()-1);
                 mx = max(mx, area);
             }
-            st.push(j);
+            if (j < m) st.push(j);
         }
     }
     cout<<mx;
