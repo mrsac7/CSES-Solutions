@@ -192,7 +192,7 @@
 * 1664 - Movie Festival Queries
 * [1697 - Chess Tournament](src/1697%20-%20Chess%20Tournament.cpp)
 * [1702 - Tree Traversals](src/1702%20-%20Tree%20Traversals.cpp)
-* 1704 - Network Renovation
+* [1704 - Network Renovation](src/1704%20-%20Network%20Renovation.cpp)
 * [1707 - Graph Girth](src/1707%20-%20Graph%20Girth.cpp)
 * [1740 - Intersection Points](src/1740%20-%20Intersection%20Points.cpp)
 * [1743 - String Reorder](src/1743%20-%20String%20Reorder.cpp)
