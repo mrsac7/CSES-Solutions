@@ -206,7 +206,7 @@
 * 1162 - Sorting Methods
 * 1191 - Cyclic Array
 * 1189 - Food Division
-* 1654 - Bit Problem
+* [1654 - Bit Problem](src/1654%20-%20Bit%20Problem.cpp)
 * 1698 - Swap Round Sorting
 * [1700 - Tree Isomorphism I](src/1700%20-%20Tree%20Isomorphism%20I.cpp)
 * 1703 - Critical Cities
@@ -228,6 +228,6 @@
 * 1705 - Forbidden Cities
 * 1741 - Area of Rectangles
 * 1752 - Creating Offices
-* 1075 - Permutations II
+* [1075 - Permutations II](src/1075%20-%20Permutations%20II.cpp)
 * 1685 - New Flight Routes
 
