@@ -203,15 +203,15 @@
 * [1086 - Writing Numbers](src/1086%20-%20Writing%20Numbers.cpp)
 * 1113 - String Transform
 * [1147 - Maximum Building I](src/1147%20-%20Maximum%20Building%20I.cpp)
-* 1162 - Sorting Methods
+* [1162 - Sorting Methods](src/1162%20-%20Sorting%20Methods.cpp)
 * 1191 - Cyclic Array
 * 1189 - Food Division
 * [1654 - Bit Problem](src/1654%20-%20Bit%20Problem.cpp)
 * 1698 - Swap Round Sorting
 * [1700 - Tree Isomorphism I](src/1700%20-%20Tree%20Isomorphism%20I.cpp)
 * 1703 - Critical Cities
-* 1706 - School Excursion
-* 1709 - Coin Grid
+* [1706 - School Excursion](src/1706%20-%20School%20Excursion.cpp)
+* [1709 - Coin Grid](src/1709%20-%20Coin%20Grid.cpp)
 * 1742 - Robot Path
 * 1757 - Course Schedule II
 * 1080 - Empty String
