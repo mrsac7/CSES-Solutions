@@ -212,7 +212,7 @@
 1. [1733 - Finding Periods](src/1733%20-%20Finding%20Periods.cpp)
 1. [1110 - Minimal Rotation](src/1110%20-%20Minimal%20Rotation.cpp)
 1. [1111 - Longest Palindrome](src/1111%20-%20Longest%20Palindrome.cpp)
-1. 1112 - Required Substring
+1. [1112 - Required Substring](src/1112%20-%20Required%20Substring.cpp)
 1. 2420 - Palindrome Queries
 1. 2102 - Finding Patterns
 1. 2103 - Counting Patterns
