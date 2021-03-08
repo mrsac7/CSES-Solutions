@@ -29,12 +29,12 @@
 1. [1618 - Trailing Zeros](src/1618%20-%20Trailing%20Zeros.cpp)
 1. [1754 - Coin Piles](src/1754%20-%20Coin%20Piles.cpp)
 1. [1755 - Palindrome Reorder](src/1755%20-%20Palindrome%20Reorder.cpp)
-1. 2205 - Gray Code
-1. 2165 - Tower of Hanoi
+1. [2205 - Gray Code](src/2205%20-%20Gray%20Code.cpp)
+1. [2165 - Tower of Hanoi](src/2165%20-%20Tower%20of%20Hanoi.cpp)
 1. [1622 - Creating Strings](src/1622%20-%20Creating%20Strings.cpp)
 1. [1623 - Apple Division](src/1623%20-%20Apple%20Division.cpp)
 1. [1624 - Chessboard and Queens](src/1624%20-%20Chessboard%20and%20Queens.cpp)
-1. 2431 - Digit Queries
+1. [2431 - Digit Queries](src/2431%20-%20Digit%20Queries.cpp)
 1. [1625 - Grid Paths](src/1625%20-%20Grid%20Paths.cpp)
 
 ## Sorting and Searching
@@ -47,13 +47,13 @@
 1. [1640 - Sum of Two Values](src/1640%20-%20Sum%20of%20Two%20Values.cpp)
 1. [1643 - Maximum Subarray Sum](src/1643%20-%20Maximum%20Subarray%20Sum.cpp)
 1. [1074 - Stick Lengths](src/1074%20-%20Stick%20Lengths.cpp)
-1. 2183 - Missing Coin Sum
-1. 2216 - Collecting Numbers
-1. 2217 - Collecting Numbers II
+1. [2183 - Missing Coin Sum](src/2183%20-%20Missing%20Coin%20Sum.cpp)
+1. [2216 - Collecting Numbers](src/2216%20-%20Collecting%20Numbers.cpp)
+1. [2217 - Collecting Numbers II](src/2217%20-%20Collecting%20Numbers%20II.cpp)
 1. [1141 - Playlist](src/1141%20-%20Playlist.cpp)
 1. [1073 - Towers](src/1073%20-%20Towers.cpp)
 1. [1163 - Traffic Lights](src/1163%20-%20Traffic%20Lights.cpp)
-1. 2162 - Josephus Problem I
+1. [2162 - Josephus Problem I](src/2162%20-%20Josephus%20Problem%20I.cpp)
 1. 2163 - Josephus Problem II
 1. 2168 - Nested Ranges Check
 1. 2169 - Nested Ranges Count
@@ -83,7 +83,7 @@
 1. [1638 - Grid Paths](src/1638%20-%20Grid%20Paths.cpp)
 1. [1158 - Book Shop](src/1158%20-%20Book%20Shop.cpp)
 1. [1746 - Array Description](src/1746%20-%20Array%20Description.cpp)
-1. 2413 - Counting Towers
+1. [2413 - Counting Towers](src/2413%20-%20Counting%20Towers.cpp)
 1. [1639 - Edit Distance](src/1639%20-%20Edit%20Distance.cpp)
 1. [1744 - Rectangle Cutting](src/1744%20-%20Rectangle%20Cutting.cpp)
 1. [1745 - Money Sums](src/1745%20-%20Money%20Sums.cpp)
@@ -92,8 +92,8 @@
 1. [1145 - Increasing Subsequence](src/1145%20-%20Increasing%20Subsequence.cpp)
 1. [1140 - Projects](src/1140%20-%20Projects.cpp)
 1. [1653 - Elevator Rides](src/1653%20-%20Elevator%20Rides.cpp)
-1. 2181 - Counting Tilings
-1. 2220 - Counting Numbers
+1. [2181 - Counting Tilings](src/2181%20-%20Counting%20Tilings.cpp)
+1. [2220 - Counting Numbers](src/2220%20-%20Counting%20Numbers.cpp)
 
 ## Graph Algorithms
 1. [1192 - Counting Rooms](src/1192%20-%20Counting%20Rooms.cpp)
@@ -173,7 +173,7 @@
 1. 2081 - Fixed-Length Paths II
 
 ## Mathematics
-1. 2164 - Josephus Queries
+1. [2164 - Josephus Queries](src/2164%20-%20Josephus%20Queries.cpp)
 1. [1095 - Exponentiation](src/1095%20-%20Exponentiation.cpp)
 1. [1712 - Exponentiation II](src/1712%20-%20Exponentiation%20II.cpp)
 1. [1713 - Counting Divisors](src/1713%20-%20Counting%20Divisors.cpp)
@@ -202,7 +202,7 @@
 1. [1730 - Nim Game I](src/1730%20-%20Nim%20Game%20I.cpp)
 1. [1098 - Nim Game II](src/1098%20-%20Nim%20Game%20II.cpp)
 1. [1099 - Stair Game](src/1099%20-%20Stair%20Game.cpp)
-1. 2207 - Grundy's Game
+1. [2207 - Grundy's Game](src/2207%20-%20Grundy's%20Game.cpp)
 1. 2208 - Another Game
 
 ## String Algorithms
@@ -235,7 +235,7 @@
 
 ## Advanced Techniques
 1. [1628 - Meet in the Middle](src/1628%20-%20Meet%20in%20the%20Middle.cpp)
-1. 2136 - Hamming Distance
+1. [2136 - Hamming Distance](src/2136%20-%20Hamming%20Distance.cpp)
 1. 2137 - Beautiful Subgrids
 1. 2138 - Reachable Nodes
 1. 2143 - Reachability Queries
