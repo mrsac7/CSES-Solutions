@@ -27,9 +27,12 @@
 * [1618 - Trailing Zeros](src/1618%20-%20Trailing%20Zeros.cpp)
 * [1754 - Coin Piles](src/1754%20-%20Coin%20Piles.cpp)
 * [1755 - Palindrome Reorder](src/1755%20-%20Palindrome%20Reorder.cpp)
+* 2205 - Gray Code
+* 2165 - Tower of Hanoi
 * [1622 - Creating Strings I](src/1622%20-%20Creating%20Strings%20I.cpp)
 * [1623 - Apple Division](src/1623%20-%20Apple%20Division.cpp)
 * [1624 - Chessboard and Queens](src/1624%20-%20Chessboard%20and%20Queens.cpp)
+* 2431 - Digit Queries
 * [1625 - Grid Paths](src/1625%20-%20Grid%20Paths.cpp)
 
 ## Sorting and Searching
@@ -42,9 +45,16 @@
 * [1640 - Sum of Two Values](src/1640%20-%20Sum%20of%20Two%20Values.cpp)
 * [1643 - Maximum Subarray Sum](src/1643%20-%20Maximum%20Subarray%20Sum.cpp)
 * [1074 - Stick Lengths](src/1074%20-%20Stick%20Lengths.cpp)
+* 2183 - Missing Coin Sum
+* 2216 - Collecting Numbers
+* 2217 - Collecting Numbers II
 * [1141 - Playlist](src/1141%20-%20Playlist.cpp)
 * [1073 - Towers](src/1073%20-%20Towers.cpp)
 * [1163 - Traffic Lights](src/1163%20-%20Traffic%20Lights.cpp)
+* 2162 - Josephus Problem I
+* 2163 - Josephus Problem II
+* 2168 - Nested Ranges Check
+* 2169 - Nested Ranges Count
 * [1164 - Room Allocation](src/1164%20-%20Room%20Allocation.cpp)
 * [1620 - Factory Machines](src/1620%20-%20Factory%20Machines.cpp)
 * [1630 - Tasks and Deadlines](src/1630%20-%20Tasks%20and%20Deadlines.cpp)
@@ -55,6 +65,7 @@
 * [1660 - Subarray Sums I](src/1660%20-%20Subarray%20Sums%20I.cpp)
 * [1661 - Subarray Sums II](src/1661%20-%20Subarray%20Sums%20II.cpp)
 * [1662 - Subarray Divisibility](src/1662%20-%20Subarray%20Divisibility.cpp)
+* 2428 - Subarray Distinct Values
 * [1085 - Array Division](src/1085%20-%20Array%20Division.cpp)
 * [1076 - Sliding Median](src/1076%20-%20Sliding%20Median.cpp)
 * [1077 - Sliding Cost](src/1077%20-%20Sliding%20Cost.cpp)
@@ -70,6 +81,7 @@
 * [1638 - Grid Paths](src/1638%20-%20Grid%20Paths.cpp)
 * [1158 - Book Shop](src/1158%20-%20Book%20Shop.cpp)
 * [1746 - Array Description](src/1746%20-%20Array%20Description.cpp)
+* 2413 - Counting Towers
 * [1639 - Edit Distance](src/1639%20-%20Edit%20Distance.cpp)
 * [1744 - Rectangle Cutting](src/1744%20-%20Rectangle%20Cutting.cpp)
 * [1745 - Money Sums](src/1745%20-%20Money%20Sums.cpp)
@@ -77,6 +89,9 @@
 * [1093 - Two Sets II](src/1093%20-%20Two%20Sets%20II.cpp)
 * [1145 - Increasing Subsequence](src/1145%20-%20Increasing%20Subsequence.cpp)
 * [1140 - Projects](src/1140%20-%20Projects.cpp)
+* [1653 - Elevator Rides](src/1653%20-%20Elevator%20Rides.cpp)
+* 2181 - Counting Tilings
+* 2220 - Counting Numbers
 
 ## Graph Algorithms
 * [1192 - Counting Rooms](src/1192%20-%20Counting%20Rooms.cpp)
@@ -127,8 +142,11 @@
 * [1143 - Hotel Queries](src/1143%20-%20Hotel%20Queries.cpp)
 * [1749 - List Removals](src/1749%20-%20List%20Removals.cpp)
 * [1144 - Salary Queries](src/1144%20-%20Salary%20Queries.cpp)
+* 2166 - Prefix Sum Queries
+* 2206 - Pizzeria Queries
 * [1190 - Subarray Sum Queries](src/1190%20-%20Subarray%20Sum%20Queries.cpp)
 * [1734 - Distinct Values Queries](src/1734%20-%20Distinct%20Values%20Queries.cpp)
+* 2416 - Increasing Array Queries
 * [1739 - Forest Queries II](src/1739%20-%20Forest%20Queries%20II.cpp)
 * [1735 - Range Updates and Sums](src/1735%20-%20Range%20Updates%20and%20Sums.cpp)
 * [1736 - Polynomial Queries](src/1736%20-%20Polynomial%20Queries.cpp)
@@ -146,18 +164,30 @@
 * [1136 - Counting Paths](src/1136%20-%20Counting%20Paths.cpp)
 * [1137 - Subtree Queries](src/1137%20-%20Subtree%20Queries.cpp)
 * [1138 - Path Queries](src/1138%20-%20Path%20Queries.cpp)
+* 2134 - Path Queries II
 * [1139 - Distinct Colors](src/1139%20-%20Distinct%20Colors.cpp)
+* 2079 - Finding a Centroid
+* 2080 - Fixed-Length Paths I
+* 2081 - Fixed-Length Paths II
 
 ## Mathematics
+* 2164 - Josephus Queries
 * [1095 - Exponentiation](src/1095%20-%20Exponentiation.cpp)
 * [1712 - Exponentiation II](src/1712%20-%20Exponentiation%20II.cpp)
 * [1713 - Counting Divisors](src/1713%20-%20Counting%20Divisors.cpp)
 * [1081 - Common Divisors](src/1081%20-%20Common%20Divisors.cpp)
 * [1082 - Sum of Divisors](src/1082%20-%20Sum%20of%20Divisors.cpp)
+* 2182 - Divisor Analysis
+* 2185 - Prime Multiples
+* 2417 - Counting Coprime Pairs
 * [1079 - Binomial Coefficients](src/1079%20-%20Binomial%20Coefficients.cpp)
 * [1715 - Creating Strings II](src/1715%20-%20Creating%20Strings%20II.cpp)
 * [1716 - Distributing Apples](src/1716%20-%20Distributing%20Apples.cpp)
 * [1717 - Christmas Party](src/1717%20-%20Christmas%20Party.cpp)
+* 2064 - Bracket Sequences I
+* 2187 - Bracket Sequences II
+* 2209 - Counting Necklaces
+* 2210 - Counting Grids
 * [1722 - Fibonacci Numbers](src/1722%20-%20Fibonacci%20Numbers.cpp)
 * [1096 - Throwing Dice](src/1096%20-%20Throwing%20Dice.cpp)
 * [1723 - Graph Paths I](src/1723%20-%20Graph%20Paths%20I.cpp)
@@ -170,6 +200,8 @@
 * [1730 - Nim Game I](src/1730%20-%20Nim%20Game%20I.cpp)
 * [1098 - Nim Game II](src/1098%20-%20Nim%20Game%20II.cpp)
 * [1099 - Stair Game](src/1099%20-%20Stair%20Game.cpp)
+* 2207 - Grundy's Game
+* 2208 - Another Game
 
 ## String Algorithms
 * [1731 - Word Combinations](src/1731%20-%20Word%20Combinations.cpp)
@@ -178,16 +210,65 @@
 * [1733 - Finding Periods](src/1733%20-%20Finding%20Periods.cpp)
 * [1110 - Minimal Rotation](src/1110%20-%20Minimal%20Rotation.cpp)
 * [1111 - Longest Palindrome](src/1111%20-%20Longest%20Palindrome.cpp)
+* 1112 - Required Substring
+* 2420 - Palindrome Queries
+* 2102 - Finding Patterns
+* 2103 - Counting Patterns
+* 2104 - Pattern Positions
+* 2105 - Distinct Substrings
+* 2106 - Repeating Substring
+* 2107 - String Functions
+* 2108 - Substring Order I
+* 2109 - Substring Order II
+* 2110 - Substring Distribution
+
+## Geometry
+* 2189 - Point Location Test
+* 2190 - Line Segment Intersection
+* 2191 - Polygon Area
+* 2192 - Point in Polygon
+* 2193 - Polygon Lattice Points
+* 2194 - Minimum Euclidean Distance
+* 2195 - Convex Hull
+
+## Advanced Techniques
+* [1628 - Meet in the Middle](src/1628%20-%20Meet%20in%20the%20Middle.cpp)
+* 2136 - Hamming Distance
+* 2137 - Beautiful Subgrids
+* 2138 - Reachable Nodes
+* 2143 - Reachability Queries
+* 2072 - Cut and Paste
+* 2073 - Substring Reversals
+* 2074 - Reversals and Sums
+* 2076 - Necessary Roads
+* 2077 - Necessary Cities
+* 2078 - Eulerian Subgraphs
+* 2084 - Monster Game I
+* 2085 - Monster Game II
+* 2086 - Subarray Squares
+* 2087 - Houses and Schools
+* 2088 - Knuth Division
+* 2111 - Apples and Bananas
+* 2112 - One Bit Positions
+* 2113 - Signal Processing
+* 2101 - New Roads Queries
+* 2133 - Dynamic Connectivity
+* 2121 - Parcel Delivery
+* 2129 - Task Assignment
+* 2130 - Distinct Routes II
 
 ## Additional Problems
 * [1087 - Shortest Subsequence](src/1087%20-%20Shortest%20Subsequence.cpp)
 * [1146 - Counting Bits](src/1146%20-%20Counting%20Bits.cpp)
 * [1670 - Swap Game](src/1670%20-%20Swap%20Game.cpp)
-* [1628 - Meet in the Middle](src/1628%20-%20Meet%20in%20the%20Middle.cpp)
 * [1134 - Prüfer Code](src/1134%20-%20Prüfer%20Code.cpp)
-* [1756 - Edge Directions](src/1756%20-%20Edge%20Directions.cpp)
+* [1756 - Edges Directions](src/1756%20-%20Edge%20Directions.cpp)
+* 2177 - Strongly Connected Edges
+* 2179 - Even Outdegree Edges
+* 2422 - Multiplication Table
 * [1142 - Advertisement](src/1142%20-%20Advertisement.cpp)
-* [1653 - Elevator Rides](src/1653%20-%20Elevator%20Rides.cpp)
+* 2186 - Special Substrings
+* 2229 - Permutation Inversions
 * [1655 - Maximum Xor Subarray](src/1655%20-%20Maximum%20Xor%20Subarray.cpp)
 * [1664 - Movie Festival Queries](src/1664%20-%20Movie%20Festival%20Queries.cpp)
 * [1697 - Chess Tournament](src/1697%20-%20Chess%20Tournament.cpp)
@@ -195,39 +276,62 @@
 * [1704 - Network Renovation](src/1704%20-%20Network%20Renovation.cpp)
 * [1707 - Graph Girth](src/1707%20-%20Graph%20Girth.cpp)
 * [1740 - Intersection Points](src/1740%20-%20Intersection%20Points.cpp)
+* 2214 - Inverse Inversions
+* 2215 - Monotone Subsequences
 * [1743 - String Reorder](src/1743%20-%20String%20Reorder.cpp)
+* 2425 - Stack Weights
 * [1747 - Pyramid Array](src/1747%20-%20Pyramid%20Array.cpp)
 * [1748 - Increasing Subsequence II](src/1748%20-%20Increasing%20Subsequence%20II.cpp)
 * [1149 - String Removals](src/1149%20-%20String%20Removals.cpp)
 * [1188 - Bit Inversions](src/1188%20-%20Bit%20Inversions.cpp)
+* 2419 - Xor Pyramid
 * [1086 - Writing Numbers](src/1086%20-%20Writing%20Numbers.cpp)
 * [1113 - String Transform](src/1113%20-%20String%20Transform.cpp)
+* 2427 - Letter Pair Move Game
 * [1147 - Maximum Building I](src/1147%20-%20Maximum%20Building%20I.cpp)
 * [1162 - Sorting Methods](src/1162%20-%20Sorting%20Methods.cpp)
 * 1191 - Cyclic Array
+* 2414 - List of Sums
+* 2132 - Increasing Array II
 * 1189 - Food Division
 * [1654 - Bit Problem](src/1654%20-%20Bit%20Problem.cpp)
 * 1698 - Swap Round Sorting
+* 2430 - Binary Subsequences
 * [1700 - Tree Isomorphism I](src/1700%20-%20Tree%20Isomorphism%20I.cpp)
+* 2228 - Counting Sequences
 * 1703 - Critical Cities
 * [1706 - School Excursion](src/1706%20-%20School%20Excursion.cpp)
 * [1709 - Coin Grid](src/1709%20-%20Coin%20Grid.cpp)
 * 1742 - Robot Path
+* 2426 - Programmers and Artists
 * 1757 - Course Schedule II
+* 2174 - Removing Digits II
+* 2180 - Coin Arrangement
+* 2176 - Counting Bishops
+* 2432 - Grid Puzzle I
+* 2131 - Grid Puzzle II
 * 1080 - Empty String
 * 1078 - Grid Paths
+* 2115 - Bit Substrings
+* 2075 - Reversal Sorting
+* 2421 - Counting Reorders
 * [1159 - Book Shop II](src/1159%20-%20Book%20Shop%20II.cpp)
 * [1677 - Network Breakdown](src/1677%20-%20Network%20Breakdown.cpp)
 * 1203 - Visiting Cities
+* 2184 - Missing Coin Sum Queries
 * [1157 - Number Grid](src/1157%20-%20Number%20Grid.cpp)
 * 1148 - Maximum Building II
+* 2423 - Filling Trominos
 * [1161 - Stick Divisions](src/1161%20-%20Stick%20Divisions.cpp)
 * 1665 - Coding Company
 * 1699 - Flight Route Requests
+* 2402 - Two Stacks Sorting
 * [1701 - Tree Isomorphism II](src/1701%20-%20Tree%20Isomorphism%20II.cpp)
 * 1705 - Forbidden Cities
 * 1741 - Area of Rectangles
+* 2429 - Grid Completion
 * 1752 - Creating Offices
 * [1075 - Permutations II](src/1075%20-%20Permutations%20II.cpp)
+* 2415 - Functional Graph Distribution
 * 1685 - New Flight Routes
-
+* 2418 - Grid Path Construction
