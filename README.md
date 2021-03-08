@@ -11,6 +11,8 @@
 - [Tree Algorithms](#Tree-Algorithms)
 - [Mathematics](#Mathematics)
 - [String Algorithms](#String-Algorithms)
+- [Geometry](#Geometry)
+- [Advanced Techniques](#Advanced-Techniques)
 - [Additional Problems](#Additional-Problems)
 
 ---
@@ -29,7 +31,7 @@
 * [1755 - Palindrome Reorder](src/1755%20-%20Palindrome%20Reorder.cpp)
 * 2205 - Gray Code
 * 2165 - Tower of Hanoi
-* [1622 - Creating Strings I](src/1622%20-%20Creating%20Strings%20I.cpp)
+* [1622 - Creating Strings](src/1622%20-%20Creating%20Strings.cpp)
 * [1623 - Apple Division](src/1623%20-%20Apple%20Division.cpp)
 * [1624 - Chessboard and Queens](src/1624%20-%20Chessboard%20and%20Queens.cpp)
 * 2431 - Digit Queries
@@ -132,10 +134,10 @@
 * [1711 - Distinct Routes](src/1711%20-%20Distinct%20Routes.cpp)
 
 ## Range Queries
-* [1646 - Range Sum Queries I](src/1646%20-%20Range%20Sum%20Queries%20I.cpp)
-* [1647 - Range Minimum Queries I](src/1647%20-%20Range%20Minimum%20Queries%20I.cpp)
-* [1648 - Range Sum Queries II](src/1648%20-%20Range%20Sum%20Queries%20II.cpp)
-* [1649 - Range Minimum Queries II](src/1649%20-%20Range%20Minimum%20Queries%20II.cpp)
+* [1646 - Static Range Sum Queries](src/1646%20-%20Static%20Range%20Sum%20Queries.cpp)
+* [1647 - Static Range Minimum Queries](src/1647%20-%20Static%20Range%20Minimum%20Queries.cpp)
+* [1648 - Dynamic Range Sum Queries](src/1648%20-%20Dynamic%20Range%20Sum%20Queries.cpp)
+* [1649 - Dynamic Range Minimum Queries](src/1649%20-%20Dynamic%20Range%20Minimum%20Queries.cpp)
 * [1650 - Range Xor Queries](src/1650%20-%20Range%20Xor%20Queries.cpp)
 * [1651 - Range Update Queries](src/1651%20-%20Range%20Update%20Queries.cpp)
 * [1652 - Forest Queries](src/1652%20-%20Forest%20Queries.cpp)
@@ -262,7 +264,7 @@
 * [1146 - Counting Bits](src/1146%20-%20Counting%20Bits.cpp)
 * [1670 - Swap Game](src/1670%20-%20Swap%20Game.cpp)
 * [1134 - Prüfer Code](src/1134%20-%20Prüfer%20Code.cpp)
-* [1756 - Edges Directions](src/1756%20-%20Edge%20Directions.cpp)
+* [1756 - Acyclic Grpah Edges](src/1756%20-%20Acyclic%20Graph%20Edges.cpp)
 * 2177 - Strongly Connected Edges
 * 2179 - Even Outdegree Edges
 * 2422 - Multiplication Table
