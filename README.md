@@ -67,7 +67,7 @@
 1. [1660 - Subarray Sums I](src/1660%20-%20Subarray%20Sums%20I.cpp)
 1. [1661 - Subarray Sums II](src/1661%20-%20Subarray%20Sums%20II.cpp)
 1. [1662 - Subarray Divisibility](src/1662%20-%20Subarray%20Divisibility.cpp)
-1. 2428 - Subarray Distinct Values
+1. [2428 - Subarray Distinct Values](src/2428%20-%20Subarray%20Distinct%20Values.cpp)
 1. [1085 - Array Division](src/1085%20-%20Array%20Division.cpp)
 1. [1076 - Sliding Median](src/1076%20-%20Sliding%20Median.cpp)
 1. [1077 - Sliding Cost](src/1077%20-%20Sliding%20Cost.cpp)
