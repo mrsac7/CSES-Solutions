@@ -1,0 +1,47 @@
+/*
+This is the AC code for Divisor Analysis on Cses
+Task 2182 under Mathematics
+Code By Dhruv Walia
+*/
+
+#include <bits/stdc++.h>
+using namespace std;
+
+long long fact[1000006]={0};
+long long mod=1000000007;
+long long expo(long long x,long long y,long long m)
+{
+long long p=1;
+while(y>0)
+{
+if(y%2==1)
+p=p * x%m;
+x=x * x%m;
+y=y/2;
+}
+return(p%m);
+}
+
+long long invmod(long long n,long long k) {
+return expo(n,k-2,k);
+}
+
+int main() {
+ios_base::sync_with_stdio(false);
+cin.tie(NULL);
+cout.tie(NULL);
+long long i,j,l,q,t,h,n,k,p,x,y,d;
+std::cin >> n;
+h=1;p=1;j=1;y=0;d=1;
+while(n--)
+{
+std::cin >> x >> k;
+h=(h%mod * (k+1)%mod)%mod;
+j=(j%mod * (expo(x,k+1,mod)-1)%mod * invmod(x-1,mod)%mod)%mod;
+y=expo(x,k * (k+1)/2,mod);
+p=(expo(p,k+1,mod) * expo(y,d,mod))%mod;
+d=(d * (k+1))%(mod-1);
+}
+std::cout << h << " " << j << " " << p << std::endl;
+return 0;
+}
