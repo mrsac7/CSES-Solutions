@@ -1,0 +1,71 @@
+/*
+This is the AC code for Divisor Analysis on Cses
+Task 2191 under Geometry
+Code By Dhruv Walia
+*/
+
+#include <iostream>
+#include <bits/stdc++.h>
+#include<string>
+
+using namespace std;
+
+typedef long long ll;
+typedef vector<ll> vi;
+typedef pair<ll,ll> pi;
+typedef tuple<ll,ll,ll> ti;
+typedef vector<pi> vpi;
+typedef vector<ti> vti;
+#define F first
+#define S second
+#define PB push_back
+#define mp make_pair
+#define mt make_tuple
+#define REP(i,a,b) for(int i=a;i<b;i++)
+// SUM_AP(a,b,n) n*(a+b)/2
+// SUM_GP(a,r,n) a*(pow(r,n+1)-1)/(r-1)
+// use log2(x) for log to base 2
+// priority_queue<int,vector<int>,greater<int>> q; for heap with smallest element on top
+/*
+    bool comp(pi &a,pi &b) {
+    return ( (a.S > b.S) ||
+	(!( a.S > b.S && a.F < b.F ));
+    }
+*/
+
+/* TO READ AND WRITE FROM FILES
+freopen("input.txt", "r", stdin);
+freopen("output.txt", "w", stdout);*/
+
+long long t,n,m;
+vpi a;
+
+void get_values()
+{
+    long long i,j,ans=0,x2,y2,x1,y1;
+    std::cin >> n;
+    m=n;
+    while(m--)
+    {
+        cin >> i >> j;
+        a.PB({i,j});
+    }
+    a.PB(a[0]);
+    REP(i,0,n)
+    {   
+        x1=a[i].F;y1=a[i].S;
+        x2=a[i+1].F;y2=a[i+1].S;
+        ans+=(x1*y2-y1*x2);
+    }
+    std::cout << abs(ans) << std::endl;
+    return;
+}
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    t=1;
+    get_values();
+    return 0;
+}
