@@ -1,0 +1,111 @@
+/*
+This is the AC code for Divisor Analysis on Cses
+Task 2190 under Geometry
+Code By Dhruv Walia
+*/
+
+#include <iostream>
+#include <bits/stdc++.h>
+#include<string>
+ 
+using namespace std;
+ 
+typedef long long ll;
+typedef vector<ll> vi;
+typedef pair<ll,ll> pi;
+typedef tuple<ll,ll,ll> ti;
+typedef vector<pi> vpi;
+typedef vector<ti> vti;
+typedef long long C;
+typedef complex<C> P;
+#define F first
+#define S second
+#define PB push_back
+#define mp make_pair
+#define mt make_tuple
+#define REP(i,a,b) for(int i=a;i<b;i++)
+#define X real()
+#define Y imag()
+// SUM_AP(a,b,n) n*(a+b)/2
+// SUM_GP(a,r,n) a*(pow(r,n+1)-1)/(r-1)
+// use log2(x) for log to base 2
+// priority_queue<int,vector<int>,greater<int>> q; for heap with smallest element on top
+/*
+    bool comp(pi &a,pi &b) {
+    return ( (a.S > b.S) ||
+	(!( a.S > b.S && a.F < b.F ));
+    }
+*/
+ 
+/* TO READ AND WRITE FROM FILES
+freopen("input.txt", "r", stdin);
+freopen("output.txt", "w", stdout);*/
+ 
+long long t,n,m;
+vpi a;
+ll x[5],y[5];
+ 
+void get_values()
+{
+    long long i,j,ans=0;
+    REP(i,1,5)
+    {
+        std::cin >> x[i] >> y[i];
+        a.PB({x[i],y[i]});
+    }
+    if(x[1]==x[3] && y[1]==y[3])
+        ans=1;
+    else if(x[1]==x[4] && y[1]==y[4])
+        ans=1;
+    else if(x[2]==x[3] && y[2]==y[3])
+        ans=1;
+    else if(x[2]==x[4] && y[2]==y[4])
+        ans=1;
+    else
+    {
+        ll x2,y2,x1,y1,p,h,p1,h1;
+        x1=x[1]-x[3];
+        y1=y[1]-y[3];
+        x2=x[2]-x[3];
+        y2=y[2]-y[3];
+        p=x1*y2-x2*y1;
+        x1=x[1]-x[4];
+        y1=y[1]-y[4];
+        x2=x[2]-x[4];
+        y2=y[2]-y[4];
+        h=x1*y2-x2*y1;
+        x1=x[4]-x[1];
+        y1=y[4]-y[1];
+        x2=x[3]-x[1];
+        y2=y[3]-y[1];
+        p1=x1*y2-x2*y1;
+        x1=x[4]-x[2];
+        y1=y[4]-y[2];
+        x2=x[3]-x[2];
+        y2=y[3]-y[2];
+        h1=x1*y2-x2*y1;
+        if(((p>0 && h<0) || (p<0 && h>0)) && ((p1>0 && h1<0) || (p1<0 && h1>0)))
+            ans=1;
+        if(p==0 && (x[3]<=max(x[1],x[2]) && y[3]<=max(y[1],y[2]) && x[3]>=min(x[1],x[2]) && y[3]>=min(y[1],y[2]) ))
+            ans=1;
+        if(h==0 && (x[4]<=max(x[1],x[2]) && y[4]<=max(y[1],y[2]) && x[4]>=min(x[1],x[2]) && y[4]>=min(y[1],y[2]) ))
+            ans=1;
+        if(p1==0 && (x[1]<=max(x[3],x[4]) && y[1]<=max(y[3],y[4]) && x[1]>=min(x[3],x[4]) && y[1]>=min(y[3],y[4]) ))
+            ans=1;
+        if(h1==0 && (x[2]<=max(x[3],x[4]) && y[2]<=max(y[3],y[4]) && x[2]>=min(x[3],x[4]) && y[2]>=min(y[3],y[4]) ))
+            ans=1;
+    }
+    if(ans==1)
+        std::cout << "YES" << std::endl;
+    else std::cout << "NO" << std::endl;
+    return;
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    std::cin >> t;
+    while(t--)
+        get_values();
+}
