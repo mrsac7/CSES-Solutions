@@ -196,7 +196,7 @@
 1. [1724 - Graph Paths II](src/1724%20-%20Graph%20Paths%20II.cpp)
 1. [1725 - Dice Probability](src/1725%20-%20Dice%20Probability.cpp)
 1. [1726 - Moving Robots](src/1726%20-%20Moving%20Robots.cpp)
-1. [1727 - Candy Lottery](src/1727%20-%20Candy%20Lottery.cpp)
+1. [1727 - Candy Lottery](src/1727%20-%20Candy%20Lottery.py)
 1. [1728 - Inversion Probability](src/1728%20-%20Inversion%20Probability.cpp)
 1. [1729 - Stick Game](src/1729%20-%20Stick%20Game.cpp)
 1. [1730 - Nim Game I](src/1730%20-%20Nim%20Game%20I.cpp)
