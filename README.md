@@ -55,8 +55,8 @@
 1. [1163 - Traffic Lights](src/1163%20-%20Traffic%20Lights.cpp)
 1. [2162 - Josephus Problem I](src/2162%20-%20Josephus%20Problem%20I.cpp)
 1. [2163 - Josephus Problem II](src/2163%20-%20Josephus%20Problem%20II.cpp)
-1. 2168 - Nested Ranges Check
-1. 2169 - Nested Ranges Count
+1. [2168 - Nested Ranges Check](src/2168%20-%20Nested%20Ranges%20Check.cpp)
+1. [2169 - Nested Ranges Count](src/2169%20-%20Nested%20Ranges%20Count.cpp)
 1. [1164 - Room Allocation](src/1164%20-%20Room%20Allocation.cpp)
 1. [1620 - Factory Machines](src/1620%20-%20Factory%20Machines.cpp)
 1. [1630 - Tasks and Deadlines](src/1630%20-%20Tasks%20and%20Deadlines.cpp)
