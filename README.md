@@ -145,7 +145,7 @@
 1. [1749 - List Removals](src/1749%20-%20List%20Removals.cpp)
 1. [1144 - Salary Queries](src/1144%20-%20Salary%20Queries.cpp)
 1. [2166 - Prefix Sum Queries](src/2166%20-%20Prefix%20Sum%20Queries.cpp)
-1. 2206 - Pizzeria Queries
+1. [2206 - Pizzeria Queries](src/2206%20-%20Pizzeria%20Queries.cpp)
 1. [1190 - Subarray Sum Queries](src/1190%20-%20Subarray%20Sum%20Queries.cpp)
 1. [1734 - Distinct Values Queries](src/1734%20-%20Distinct%20Values%20Queries.cpp)
 1. 2416 - Increasing Array Queries
