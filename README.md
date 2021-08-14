@@ -179,7 +179,7 @@
 1. [1713 - Counting Divisors](src/1713%20-%20Counting%20Divisors.cpp)
 1. [1081 - Common Divisors](src/1081%20-%20Common%20Divisors.cpp)
 1. [1082 - Sum of Divisors](src/1082%20-%20Sum%20of%20Divisors.cpp)
-1. 2182 - Divisor Analysis
+1. [2182 - Divisor Analysis](src/2182%20-%20Divisor%20Analysis.cpp)
 1. 2185 - Prime Multiples
 1. 2417 - Counting Coprime Pairs
 1. [1079 - Binomial Coefficients](src/1079%20-%20Binomial%20Coefficients.cpp)
@@ -225,7 +225,7 @@
 1. 2110 - Substring Distribution
 
 ## Geometry
-1. 2189 - Point Location Test
+1. [2189 - Point Location Test](src/2189%20-%20Point%20Location%20Test.cpp)
 1. 2190 - Line Segment Intersection
 1. 2191 - Polygon Area
 1. 2192 - Point in Polygon
