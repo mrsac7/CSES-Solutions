@@ -180,16 +180,16 @@
 1. [1081 - Common Divisors](src/1081%20-%20Common%20Divisors.cpp)
 1. [1082 - Sum of Divisors](src/1082%20-%20Sum%20of%20Divisors.cpp)
 1. [2182 - Divisor Analysis](src/2182%20-%20Divisor%20Analysis.cpp)
-1. 2185 - Prime Multiples
-1. 2417 - Counting Coprime Pairs
+1. [2185 - Prime Multiples](src/2185%20-%20Prime%20Multiples.cpp)
+1. [2417 - Counting Coprime Pairs](src/2417%20-%20Counting%20Coprime%20Pairs.cpp)
 1. [1079 - Binomial Coefficients](src/1079%20-%20Binomial%20Coefficients.cpp)
 1. [1715 - Creating Strings II](src/1715%20-%20Creating%20Strings%20II.cpp)
 1. [1716 - Distributing Apples](src/1716%20-%20Distributing%20Apples.cpp)
 1. [1717 - Christmas Party](src/1717%20-%20Christmas%20Party.cpp)
-1. 2064 - Bracket Sequences I
-1. 2187 - Bracket Sequences II
-1. 2209 - Counting Necklaces
-1. 2210 - Counting Grids
+1. [2064 - Bracket Sequences I](src/2064%20-%20Bracket%20Sequences%20I.cpp)
+1. [2187 - Bracket Sequences II](src/2187%20-%20Bracket%20Sequences%20II.cpp)
+1. [2209 - Counting Necklaces](src/2209%20-%20Counting%20Necklaces.cpp)
+1. [2210 - Counting Grids](src/2210%20-%20Counting%20Grids.cpp)
 1. [1722 - Fibonacci Numbers](src/1722%20-%20Fibonacci%20Numbers.cpp)
 1. [1096 - Throwing Dice](src/1096%20-%20Throwing%20Dice.cpp)
 1. [1723 - Graph Paths I](src/1723%20-%20Graph%20Paths%20I.cpp)
@@ -203,7 +203,7 @@
 1. [1098 - Nim Game II](src/1098%20-%20Nim%20Game%20II.cpp)
 1. [1099 - Stair Game](src/1099%20-%20Stair%20Game.cpp)
 1. [2207 - Grundy's Game](src/2207%20-%20Grundy's%20Game.cpp)
-1. 2208 - Another Game
+1. [2208 - Another Game](src/2208%20-%20Another%20Game.cpp)
 
 ## String Algorithms
 1. [1731 - Word Combinations](src/1731%20-%20Word%20Combinations.cpp)
