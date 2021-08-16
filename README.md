@@ -226,12 +226,12 @@
 
 ## Geometry
 1. [2189 - Point Location Test](src/2189%20-%20Point%20Location%20Test.cpp)
-1. 2190 - Line Segment Intersection
-1. 2191 - Polygon Area
-1. 2192 - Point in Polygon
-1. 2193 - Polygon Lattice Points
-1. 2194 - Minimum Euclidean Distance
-1. 2195 - Convex Hull
+1. [2190 - Line Segment Intersection](src/2190%20-%20Line%20Segment%20Intersection.cpp)
+1. [2191 - Polygon Area](src/2191%20-%20Polygon%20Area.cpp)
+1. [2192 - Point in Polygon](src/2192%20-%20Point%20in%20Polygon.cpp)
+1. [2193 - Polygon Lattice Points](src/2193%20-%20Polygon%20Lattice%20Points.cpp)
+1. [2194 - Minimum Euclidean Distance](src/2194%20-%20Minimum%20Euclidean%20Distance.cpp)
+1. [2195 - Convex Hull](src/2195%20-%20Convex%20Hull.cpp)
 
 ## Advanced Techniques
 1. [1628 - Meet in the Middle](src/1628%20-%20Meet%20in%20the%20Middle.cpp)
