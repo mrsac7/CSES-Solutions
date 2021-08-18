@@ -166,11 +166,11 @@
 1. [1136 - Counting Paths](src/1136%20-%20Counting%20Paths.cpp)
 1. [1137 - Subtree Queries](src/1137%20-%20Subtree%20Queries.cpp)
 1. [1138 - Path Queries](src/1138%20-%20Path%20Queries.cpp)
-1. 2134 - Path Queries II
+1. [2134 - Path Queries II](src/2134%20-%20Path%20Queries%20II.cpp)
 1. [1139 - Distinct Colors](src/1139%20-%20Distinct%20Colors.cpp)
-1. 2079 - Finding a Centroid
-1. 2080 - Fixed-Length Paths I
-1. 2081 - Fixed-Length Paths II
+1. [2079 - Finding a Centroid](src/2079%20-%20Finding%20a%20Centroid.cpp)
+1. [2080 - Fixed-Length Paths I](src/2080%20-%20Fixed-Length%20Paths%20I.cpp)
+1. [2081 - Fixed-Length Paths II](src/2081%20-%20Fixed-Length%20Paths%20II.cpp)
 
 ## Mathematics
 1. [2164 - Josephus Queries](src/2164%20-%20Josephus%20Queries.cpp)
