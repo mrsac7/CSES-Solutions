@@ -213,16 +213,16 @@
 1. [1110 - Minimal Rotation](src/1110%20-%20Minimal%20Rotation.cpp)
 1. [1111 - Longest Palindrome](src/1111%20-%20Longest%20Palindrome.cpp)
 1. [1112 - Required Substring](src/1112%20-%20Required%20Substring.cpp)
-1. 2420 - Palindrome Queries
-1. 2102 - Finding Patterns
-1. 2103 - Counting Patterns
-1. 2104 - Pattern Positions
-1. 2105 - Distinct Substrings
-1. 2106 - Repeating Substring
-1. 2107 - String Functions
-1. 2108 - Substring Order I
-1. 2109 - Substring Order II
-1. 2110 - Substring Distribution
+1. [2420 - Palindrome Queries](src/2420%20-%20Palindrome%20Queries.cpp)
+1. [2102 - Finding Patterns](src/2102%20-%20Finding%20Patterns.cpp)
+1. [2103 - Counting Patterns](src/2103%20-%20Counting%20Patterns.cpp)
+1. [2104 - Pattern Positions](src/2104%20-%20Pattern%20Positions.cpp)
+1. [2105 - Distinct Substrings](src/2105%20-%20Distinct%20Substrings.cpp)
+1. [2106 - Repeating Substring](src/2106%20-%20Repeating%20Substring.cpp)
+1. [2107 - String Functions](src/2107%20-%20String%20Functions.cpp)
+1. [2108 - Substring Order I](src/2108%20-%20Substring%20Order%20I.cpp)
+1. [2109 - Substring Order II](src/2109%20-%20Substring%20Order%20II.cpp)
+1. [2110 - Substring Distribution](src/2110%20-%20Substring%20Distribution.cpp)
 
 ## Geometry
 1. [2189 - Point Location Test](src/2189%20-%20Point%20Location%20Test.cpp)
