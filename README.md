@@ -245,7 +245,7 @@
 1. [2076 - Necessary Roads](src/2076%20-%20Necessary%20Roads.cpp)
 1. [2077 - Necessary Cities](src/2077%20-%20Necessary%20Cities.cpp)
 1. [2078 - Eulerian Subgraphs](src/2078%20-%20Eulerian%20Subgraphs.cpp)
-1. 2084 - Monster Game I
+1. [2084 - Monster Game I](src/2084%20-%20Monster%20Game%20I.cpp)
 1. 2085 - Monster Game II
 1. [2086 - Subarray Squares](src/2086%20-%20Subarray%20Squares.cpp)
 1. [2087 - Houses and Schools](src/2087%20-%20Houses%20and%20Schools.cpp)
