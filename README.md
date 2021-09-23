@@ -265,7 +265,7 @@
 1. [1670 - Swap Game](src/1670%20-%20Swap%20Game.cpp)
 1. [1134 - Prüfer Code](src/1134%20-%20Prüfer%20Code.cpp)
 1. [1756 - Acyclic Grpah Edges](src/1756%20-%20Acyclic%20Graph%20Edges.cpp)
-1. 2177 - Strongly Connected Edges
+1. [2177 - Strongly Connected Edges](src/2177%20-%20Strongly%20Connected%20Edges.cpp)
 1. 2179 - Even Outdegree Edges
 1. 2422 - Multiplication Table
 1. [1142 - Advertisement](src/1142%20-%20Advertisement.cpp)
@@ -313,13 +313,13 @@
 1. 2432 - Grid Puzzle I
 1. 2131 - Grid Puzzle II
 1. 1080 - Empty String
-1. 1078 - Grid Paths
+1. [1078 - Grid Paths](src/1078%20-%20Grid%20Paths.cpp)
 1. 2115 - Bit Substrings
 1. 2075 - Reversal Sorting
 1. 2421 - Counting Reorders
 1. [1159 - Book Shop II](src/1159%20-%20Book%20Shop%20II.cpp)
 1. [1677 - Network Breakdown](src/1677%20-%20Network%20Breakdown.cpp)
-1. 1203 - Visiting Cities
+1. [1203 - Visiting Cities](src/1203%20-%20Visiting%20Cities.cpp)
 1. 2184 - Missing Coin Sum Queries
 1. [1157 - Number Grid](src/1157%20-%20Number%20Grid.cpp)
 1. 1148 - Maximum Building II
