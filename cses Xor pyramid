@@ -1,0 +1,113 @@
+/*
+manish kumar patel
+codeforces id- mnishhh
+codechef id -manish_7392
+problem link - https://cses.fi/problemset/task/2419
+*/
+//manish kumar patel
+#include<bits/stdc++.h>
+using namespace std;
+ 
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
+using namespace __gnu_pbds;
+ 
+template <class T> using Tree = tree<T, null_type, less<T>,
+    rb_tree_tag, tree_order_statistics_node_update>;
+ 
+ 
+ 
+ 
+#define ll long long
+#define ld long double
+#define rep(i,a,b) for(ll i=a;i<b;i++)
+#define repb(i,a,b) for(ll i=a;i>=b;i--)
+#define err() cout<<"--------------------------"<<endl; 
+#define errA(A) for(auto i:A)   cout<<i<<" ";cout<<endl;
+#define err1(a) cout<<#a<<" "<<a<<endl
+ 
+ 
+ 
+#define err2(a,b) cout<<#a<<" "<<a<<" "<<#b<<" "<<b<<endl
+#define err3(a,b,c) cout<<#a<<" "<<a<<" "<<#b<<" "<<b<<" "<<#c<<" "<<c<<endl
+#define err4(a,b,c,d) cout<<#a<<" "<<a<<" "<<#b<<" "<<b<<" "<<#c<<" "<<c<<" "<<#d<<" "<<d<<endl
+#define pb push_back
+#define all(A)  A.begin(),A.end()
+#define allr(A)    A.rbegin(),A.rend()
+#define ft first
+#define sd second
+ 
+#define pii pair<int,int>
+#define pll pair<ll,ll>
+#define V vector<ll>
+#define S set<ll>
+#define VV vector<V>
+#define Vpll vector<pll>
+ 
+#define endl "\n"
+
+ll calc(ll a)
+{
+    ll ans=0;
+    ll kk=2;
+    while(a>=kk)
+    {
+        ans+=a/kk;
+        kk*=2;
+    }
+    return ans;
+}
+int main()
+    {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL); cout.tie(NULL);
+        #ifndef ONLINE_JUDGE
+         clock_t tStart = clock();
+        freopen("input.txt","r",stdin);
+        freopen("output.txt","w",stdout);
+        #endif
+        int t;
+        // cin>>t;/
+        t=1;
+
+        while(t--)
+        {
+            V fact(200005,1);
+            ll mod=1000000007;
+            rep(i,2,200005)
+            {
+                fact[i]=fact[i-1]*i;
+                fact[i]%=mod;
+            }
+            ll n;
+            cin>>n;
+            V a(n);
+            rep(i,0,n)
+            {
+                cin>>a[i];
+            }
+
+            ll ss=0;
+            // Nth pascal row
+            rep(i,0,n)
+            {
+                //b[i]=(n-1) C (i) %2; = (n-1)!/(i)!*(n-1-i)! 
+                // so i will just check if b[i] is odd or even 
+
+                ll jj=calc(n-1);
+                ll kk1=calc(i);
+                ll kk2=calc(n-1-i);
+                jj=jj-kk1-kk2;
+
+                if(jj==0)
+                    ss^=a[i];
+ 
+            }
+            cout<<ss;
+ 
+ 
+        }
+        #ifndef ONLINE_JUDGE
+            printf("\nRun Time -> %.10fs\n", (double)(clock()-tStart) / CLOCKS_PER_SEC);
+            #endif
+} 
