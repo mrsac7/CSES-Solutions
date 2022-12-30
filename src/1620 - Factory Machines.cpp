@@ -48,8 +48,8 @@ bool check(int m){
     ull r=0;
     rep(i,0,n){
         r+= m/a[i];
+        if (r>=k) return 1;
     }
-    if (r>=k) return 1;
     return 0;
 }
 void solve(){
